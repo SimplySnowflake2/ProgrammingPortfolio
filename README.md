@@ -7,6 +7,13 @@
 
 ## Individual Projects
 
+### ConversionApp
+OOP Graphical App Using Shapes and User Interaction for a Full User Experience 
+
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExCA.png?raw=true)
+
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/ConversionApp.zip)
+
 ### SpaceGame
 OOP Graphical Game Using Sound and Images for a Full User Experience 
 
@@ -21,9 +28,3 @@ OOP Graphical App Using Graphics and Keyboard/Mouse Listeners for a Full User Ex
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame%2010.zip)
 
-### ConversionApp
-OOP Graphical App Using Shapes and User Interaction for a Full User Experience 
-
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExCA.png?raw=true)
-
-[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/ConversionApp.zip)
