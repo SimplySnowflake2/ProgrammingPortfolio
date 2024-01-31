@@ -21,6 +21,13 @@ OOP Graphical Game Using Shapes and User Interaction for a Full User Experience
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/MakingCars.zip)
 
+### Calculator
+OOP Graphical App Using Graphics and Keyboard/Mouse Listeners for a Full User Experience 
+
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlaySG.png?raw=true)
+
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame%2010.zip)
+
 ### SpaceGame
 OOP Graphical Game Using Sound and Images for a Full User Experience 
 
@@ -28,10 +35,4 @@ OOP Graphical Game Using Sound and Images for a Full User Experience
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame.zip)
 
-### Calculator
-OOP Graphical App Using Graphics and Keyboard/Mouse Listeners for a Full User Experience 
-
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlaySG.png?raw=true)
-
-[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame%2010.zip)
 
