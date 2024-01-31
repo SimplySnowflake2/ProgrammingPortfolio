@@ -10,9 +10,9 @@
 ### EtchASketch
 OOP Graphical Game a keyPressed Method for a Full User Experience 
 
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExCA.png?raw=true)
+![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExCA.png?raw=true)
 
-[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/ConversionApp.zip)
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/EtchASketch.zip)
 
 ### ConversionApp
 OOP Graphical App Using Shapes and User Interaction for a Full User Experience 
