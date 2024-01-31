@@ -10,7 +10,7 @@
 ### EtchASketch
 OOP Graphical Game a keyPressed Method for a Full User Experience 
 
-![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExCA.png?raw=true)
+![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/line-000925.png)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/EtchASketch.zip)
 
