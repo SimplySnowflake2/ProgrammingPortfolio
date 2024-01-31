@@ -9,6 +9,6 @@
 ### SpaceGame
 OOP Graphical Game Using Sound and Images for a Full User Experience 
 
-![Gameplay]([)](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlaySG.png?raw=true)https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlaySG.png?raw=true
+![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlaySG.png?raw=true)
 
 [Source Code]()
