@@ -12,7 +12,7 @@ OOP Graphical Game Using Sound and Images for a Full User Experience
 
 ![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlaySG.png?raw=true)
 
-[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame%2010.zip)
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame.zip)
 
 ### Calculator
 OOP Graphical App Using Graphics and Keyboard/Mouse Listeners for a Full User Experience 
