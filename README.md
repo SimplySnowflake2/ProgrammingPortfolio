@@ -2,7 +2,8 @@
 
 ## Tech Certifications
 * Computer Programming 1 USOE State Certification
-  [Certification](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/pdf/CompProg1.pdf)
+
+[Certification](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/pdf/CompProg1.pdf)
 
 ## Group Project(s)
 
