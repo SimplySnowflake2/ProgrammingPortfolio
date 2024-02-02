@@ -43,9 +43,9 @@ OOP Graphical Game Using Sound and Images for a Full User Experience
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame.zip)
 
 ### Random Guessing Game
-Graphical App Using Loops and Print Statements for a Full User Experience 
+Graphical Game Using Loops, Print Statements, and User Input Values for a Full User Experience 
 
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpNumGame.png?raw=true)
+![GamePlay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpNumGame.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/Main.java)
 
