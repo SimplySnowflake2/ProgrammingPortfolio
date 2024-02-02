@@ -42,10 +42,10 @@ OOP Graphical Game Using Sound and Images for a Full User Experience
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/SpaceGame.zip)
 
-### 99 Bottles App
+### Random Guessing Game
 Graphical App Using Loops and Print Statements for a Full User Experience 
 
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpBottles.png?raw=true)
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpNumGame.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/Main.java)
 
