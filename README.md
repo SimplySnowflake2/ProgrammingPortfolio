@@ -8,7 +8,7 @@
 ## Individual Projects
 
 ### EtchASketch
-Graphical Game a keyPressed Method for a Full User Experience 
+Graphical Game using a keyPressed Method for a Full User Experience 
 
 ![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/line-000925.png?raw=true)
 
@@ -22,7 +22,7 @@ Graphical App Using Shapes and User Interaction for a Full User Experience
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/ConversionApp.zip)
 
 ### MakingCars
-OOP Graphical Game Using Shapes and User Interaction for a Full User Experience 
+OOP Graphical Game Using Shapes and Different Colors in a Loop for a Full User Experience 
 
 ![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlayMC.png?raw=true)
 
