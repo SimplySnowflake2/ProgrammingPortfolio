@@ -31,7 +31,7 @@ OOP Graphical Game Using Shapes and User Interaction for a Full User Experience
 ### Calculator
 OOP Graphical App Using Graphics and Keyboard/Mouse Listeners for a Full User Experience 
 
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpCalc.png)
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpCalc.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/CalculatorKeyboard%202.zip)
 
