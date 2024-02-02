@@ -7,6 +7,13 @@
 
 ## Individual Projects
 
+### GradesApp
+[Description Here]
+
+![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpGrades.png?raw=true)
+
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/Grades.zip)
+
 ### EtchASketch
 Graphical Game using a keyPressed Method for a Full User Experience 
 
