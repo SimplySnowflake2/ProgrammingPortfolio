@@ -24,7 +24,7 @@ OOP Graphical App Using Shapes and User Interaction for a Full User Experience
 ### MakingCars
 OOP Graphical Game Using Shapes and User Interaction for a Full User Experience 
 
-![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlayMC.png)
+![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/GamePlayMC.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/MakingCars.zip)
 
