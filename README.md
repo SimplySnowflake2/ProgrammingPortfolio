@@ -8,9 +8,9 @@
 ## Individual Projects
 
 ### GradesApp
-[Description Here]
+App that allows the user to interact with the interface, so that they may correlate the GPA scale to the letter grading system. 
 
-![Gameplay](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpGrades.png?raw=true)
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpGrades.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/Grades.zip)
 
