@@ -56,4 +56,11 @@ Graphical Game Using Loops, Print Statements, and User Input Values for a Full U
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/Main.java)
 
+### Shape Maker App
+An App Using Loops, Print Statements, and User Input Values for a Full User Experience 
+
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpSMA.png?raw=true)
+
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/ShapeMakerApp.zip)
+
 
