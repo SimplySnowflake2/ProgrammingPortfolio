@@ -10,7 +10,7 @@ A group made game, called PEMDASH. The goal of the game is that you're a ball, a
 
 ![Start Screen](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/(MM)startscreen.png?raw=true)
 
-![Start Screen](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/(MM)startscreen.png?raw=true)
+![Gameplay Part 1](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/PEMDASHGP1.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/tree/main/src/PEMDASH)
 
