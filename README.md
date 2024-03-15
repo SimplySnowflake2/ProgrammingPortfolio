@@ -5,6 +5,14 @@
 
 ## Group Project(s)
 
+### PEMDASH
+A group made game, called PEMDASH. The goal of the game is that you're a ball, and you're trying to avoid spikes to get the best score possible, with math questions every X amount of seconds to either slow you down or give you points.  
+
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/UserExpGrades.png?raw=true)
+
+[Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/tree/main/src/PEMDASH)
+
+
 ## Individual Projects
 
 ### GradesApp
