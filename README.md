@@ -80,6 +80,8 @@ An App Using Loops, Print Statements, and User Input Values for a Full User Expe
 ### MindScape Hub
 One Large Application, Containing Multiple Random Smaller Apps to Create a Unique and Interesting User Experience
 
+Individual Repository Link: https://github.com/SimplySnowflake2/IndividualProject 
+
 ![UserExperience]()
 
 [Source Code]()
