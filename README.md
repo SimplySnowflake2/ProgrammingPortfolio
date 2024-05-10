@@ -1,5 +1,5 @@
 # Sarah Zhang's Programming Portfolio 2023-2024
-Email: 9633197@graniteschools.org
+School Email: 9633197@graniteschools.org
 
 ## Tech Certifications
 * Computer Programming 1 USOE State [Certification](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/pdf/CompProg1.pdf)
