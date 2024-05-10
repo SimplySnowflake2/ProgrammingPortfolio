@@ -3,6 +3,7 @@ Email: 9633197@graniteschools.org
 
 ## Tech Certifications
 * Computer Programming 1 USOE State [Certification](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/pdf/CompProg1.pdf)
+* Computer Programming 2 USOE State [Certification](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/pdf/CompProg2.pdf)
 
 ## Group Project(s)
 
