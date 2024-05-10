@@ -83,7 +83,7 @@ One Large Application, Containing Multiple Random Smaller Apps to Create a Uniqu
 
 [Individual Repository Link](https://github.com/SimplySnowflake2/IndividualProject ) 
 
-![UserExperience]()
+![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeStart.png?raw=true)
 
 [Source Code]()
 
