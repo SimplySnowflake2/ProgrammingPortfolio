@@ -84,7 +84,9 @@ One Large Application, Containing Multiple Random Smaller Apps to Create a Uniqu
 
 [Individual Repository Link](https://github.com/SimplySnowflake2/IndividualProject ) 
 
-![UserExperience](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeStart.png?raw=true)
+![StartScreen](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeStart.png?raw=true)
+
+![Gameplay Part 1]()
 
 [Source Code]()
 
