@@ -86,7 +86,7 @@ One Large Application, Containing Multiple Random Smaller Apps to Create a Uniqu
 
 ![StartScreen](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeStart.png?raw=true)
 
-![Gameplay Part 1]()
+![Gameplay Part 1](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindscapeGP1.png?raw=true)
 
 ![Gameplay Part 2]()
 
