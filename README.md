@@ -88,6 +88,12 @@ One Large Application, Containing Multiple Random Smaller Apps to Create a Uniqu
 
 ![Gameplay Part 1]()
 
+![Gameplay Part 2]()
+
+![Gameplay Part 3]()
+
+![Gameplay Part 4]()
+
 [Source Code]()
 
 
