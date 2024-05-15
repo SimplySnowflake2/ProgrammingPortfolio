@@ -86,13 +86,17 @@ One Large Application, Containing Multiple Random Smaller Apps to Create a Uniqu
 
 ![StartScreen](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeStart.png?raw=true)
 
-![Gameplay Part 1](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindscapeGP1.png?raw=true)
+![Instructions](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeInstructions.png?raw=true)
 
-![Gameplay Part 2](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindscapeGP2.png?raw=true)
+![Gameplay Part 1](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeGP1.png?raw=true)
 
-![Gameplay Part 3](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindscapeGP3.png?raw=true)
+![Gameplay Part 2](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeGP2.png?raw=true)
 
-![Gameplay Part 4](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindscapeGP4.png?raw=true)
+![Gameplay Part 3](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeGP3.png?raw=true)
+
+![Gameplay Part 4](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeGP4.png?raw=true)
+
+![Gameplay Part 5](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/images/MindScapeGP5.png?raw=true)
 
 [Source Code](https://github.com/SimplySnowflake2/ProgrammingPortfolio/blob/main/src/IndividualProjectTesting.zip)
 
